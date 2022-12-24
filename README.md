@@ -1,5 +1,4 @@
-# Data-Science-Rpubs-
-Rpubs by Rstudio (Link)
+# Rpubs by Rstudio
 
 
 
